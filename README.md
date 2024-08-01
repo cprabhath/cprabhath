@@ -4,18 +4,15 @@
   <img height="270" src="https://www.mindinventory.com/blog/wp-content/uploads/2022/10/web-app-tech-stack.png"  />
 </div>
 
-###
-
 <h1 align="left">Hi 👋! My name is Prabhath Hettiarachchi and I'm a Full-Stack Developer, from Sri Lanka</h1>
 
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cprabhath&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cprabhath&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=cprabhath&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cprabhath&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -95,9 +92,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
 </div>
 
-###
-
-<div align="left">
+<div align="left" >
   <a href="https://api.whatsapp.com/send/?phone=%2B94766938974&text&type=phone_number&app_absent=0" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
@@ -113,16 +108,8 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
 </div>
 
-###
 
 <br clear="both">
 
-<img align="right" height="150" src="https://camo.githubusercontent.com/eee94789e0d771d6cc6481a2b2f224d802e01956cbf69470ca182f343c16bf06/68747470733a2f2f7777772e6368617774656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30332f646576656c6f7065722e676966"  />
-
-###
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cprabhath" alt="cprabhath" /></a> </p>
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/cprabhath/cprabhath/output/snake.svg" alt="Snake animation" />
-
-###
