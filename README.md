@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="270" src="https://www.mindinventory.com/blog/wp-content/uploads/2022/10/web-app-tech-stack.png"  />
+  <img height="270" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif"  />
 </div>
 
 <h1 align="left">Hi 👋! My name is Prabhath Hettiarachchi and I'm a Full-Stack Developer, from Sri Lanka</h1>
