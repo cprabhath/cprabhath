@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="270" src="https://media.licdn.com/dms/image/v2/D5622AQEfJn8nD2VhsQ/feedshare-shrink_800/feedshare-shrink_800/0/1717868442559?e=1738195200&v=beta&t=CsED3LU1vhLHTDH-Libed9JuSC6sZF_eTDa4JsbxmUA"  />
+  <img height="270" src="https://images.wallpapersden.com/image/download/react-4k_bWdrZmuUmZqaraWkpJRpZW1lrWZlbWU.jpg"  />
 </div>
 
 <h1 align="left">Hi 👋! My name is Prabhath Hettiarachchi and I'm a Full-Stack Developer, from Sri Lanka</h1>
