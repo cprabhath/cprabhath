@@ -4,7 +4,7 @@
   <img height="270" src="https://images.wallpapersden.com/image/download/react-4k_bWdrZmuUmZqaraWkpJRpZW1lrWZlbWU.jpg"  />
 </div>
 
-<h1 align="left">Hi 👋! My name is Prabhath Hettiarachchi and I'm a Full-Stack Developer, from Sri Lanka</h1>
+<h1 align="left">Hi 👋! My name is Prabhath Hettiarachchi and I'm a Software Engineer, from Sri Lanka</h1>
 
 
 <div align="center">
