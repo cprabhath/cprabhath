@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://images.wallpapersden.com/image/download/react-4k_bWdrZmuUmZqaraWkpJRpZW1lrWZlbWU.jpg" alt="React Banner" />
+  <img height="200" src="https://images.wallpapersden.com/image/download/react-4k_bWdrZmuUmZqaraWkpJRpZW1lrWZlbWU.jpg" alt="React Banner" />
 </div>
 
 # Hello, World! 👋 I'm Prabhath Hettiarachchi
