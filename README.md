@@ -79,14 +79,15 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cprabhath&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&custom_title=My+GitHub+Journey)
-![GitHub Streak](https://streak-stats.demolab.com?user=cprabhath&theme=tokyonight&hide_border=true&border_radius=5)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=cprabhath&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&custom_title=Technology+Proficiency)
-
+ 
+<img src="https://github-readme-stats.vercel.app/api?username=cprabhath&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&custom_title=My+GitHub+Journey" height="170" />
+<img src="https://streak-stats.demolab.com?user=cprabhath&theme=tokyonight&hide_border=true&border_radius=5" height="170" />
+ 
+<br/><br/>
+ 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=cprabhath&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&custom_title=Technology+Proficiency" height="170" width="1500" />
+ 
 </div>
-
 ---
 
 ## 📈 Contribution Graph
