@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00E5FF&center=true&vCenter=true&width=435&lines=Full-Stack+Software+Engineer;Web+%7C+Mobile+%7C+Cloud;Turning+Coffee+into+Code+%E2%98%95)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00E5FF&center=true&vCenter=true&width=435&lines=Full-Stack+Software+Engineer;Desktop+%7CWeb+%7C+Mobile+%7C+Cloud;Turning+Coffee+into+Code+%E2%98%95)](https://git.io/typing-svg)
 
 # Hey there, I'm Prabhath Hettiarachchi 👋
 
